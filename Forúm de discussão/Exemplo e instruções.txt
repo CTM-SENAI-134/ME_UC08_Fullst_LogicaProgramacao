@@ -1,0 +1,8 @@
+Neste fórum, será preciso que você faça o download dos arquivos disponibilizados
+pelo professor, e comparar com o desenvolvimento do seu fluxograma. Analisar os
+tópicos divergentes e os que coincidem, e mais importante, entender os processos
+que foram desenvolvidos por você, e compará-los com o entregue nessa atividade.
+
+É importante realizar essas comparações, para que você possa sua visão a cerca
+desse desenvolvimento de fluxogramas, e mais ainda, das variações que as lógicas
+de programação pode existir de pessoa para pessoa!
